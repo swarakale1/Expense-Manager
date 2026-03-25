@@ -59,7 +59,7 @@ expense-manager-ai/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/expense-manager-ai.git
+git clone https://github.com/swarakale1/expense-manager-ai.git
 ```
 
 2. Navigate to the project folder:
@@ -76,21 +76,6 @@ python main.py
 
 ---
 
-## 📸 Screenshots
-
-### Main Menu
-
-![Main Menu](docs/screenshots/main_menu.png)
-
-### Add Expense
-
-![Add Expense](docs/screenshots/add_expense.png)
-
-### Monthly Summary
-
-![Monthly Summary](docs/screenshots/monthly_summary.png)
-
----
 
 ## 📊 Sample Data
 

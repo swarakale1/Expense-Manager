@@ -36,6 +36,16 @@ This project uses basic Artificial Intelligence techniques such as:
 
 ---
 
+##screenshots
+
+<img width="671" height="218" alt="main_menu" src="https://github.com/user-attachments/assets/4baa8ccc-604b-4cac-af03-31bd0e5bf0cd" />
+<img width="441" height="202" alt="view_expenses" src="https://github.com/user-attachments/assets/4abfadd9-c981-48dd-aea2-418fa7d382fc" />
+<img width="657" height="273" alt="set_budget" src="https://github.com/user-attachments/assets/142130ad-9381-4762-a1bc-c0a83ab939bc" />
+<img width="638" height="370" alt="monthly_summary" src="https://github.com/user-attachments/assets/23aa52b3-46bc-4790-bad3-9b6ac86e94d4" />
+<img width="672" height="336" alt="add_expense" src="https://github.com/user-attachments/assets/b7122654-4063-4192-97ff-3d502aecafc0" />
+
+
+
 ## 📂 Project Structure
 
 ```
